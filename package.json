@@ -1,0 +1,27 @@
+{
+  "name": "super-duper-winner",
+  "version": "1.0.0",
+  "description": "An API built for a social media platform using MongoDB, Mongoose, and Express. This API has support for Users, Friends, Thoughts, and Reactions.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "install": "^0.13.0",
+    "moment": "^2.29.1",
+    "mongoose": "^5.13.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WayneEdwards/super-duper-winner.git"
+  },
+  "author": "Wayne Edwards",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WayneEdwards/super-duper-winner/issues"
+  },
+  "homepage": "https://github.com/WayneEdwards/super-duper-winner#readme"
+}
