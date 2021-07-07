@@ -30,6 +30,8 @@ moment
 mongoose
 
 Video Walkthrough
+Users: https://drive.google.com/file/d/1zKSH77Hh_l6XDMxYs5WOeHDMoKEZPidk/view
+ Thoughts: https://drive.google.com/file/d/14JWfiSmcUVRGOgDJzrNp6qWOhBxK92e5/view?usp=sharing
 
 
 
